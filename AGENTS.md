@@ -25,3 +25,35 @@ PHP 8.2+ (target 8.3), custom OOP MVC, PDO, MySQL InnoDB, Bootstrap, jQuery/AJAX
 
 ## Handoff format
 Phase / status; files changed; migration order; business rules; commands and actual results; security, concurrency and rollback evidence; database cleanup; main DB preservation; limitations; proposed next task. State unverified claims explicitly.
+
+
+
+
+# AI Development Team Rules
+
+## Team Roles
+
+- Codex: Backend developer.
+- Gemini: Frontend developer.
+- Antigravity: QA engineer and code reviewer.
+- Human: Team leader and final decision maker.
+
+## Rules
+
+1. Read this file before starting work.
+2. Read README.md and architecture documentation.
+3. Read TASKS.md before working.
+4. Only work on your assigned task.
+5. Do not modify another agent's assigned files.
+6. Do not overwrite another agent's work.
+7. Use Git for version control.
+8. Report completed tasks.
+9. Report problems instead of hiding them.
+10. Do not delete files without approval.
+
+## Communication
+
+- Use task files to share instructions.
+- Use Git commits to share changes.
+- Use review reports to share feedback.
+- The human leader approves major decisions.
